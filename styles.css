@@ -1,0 +1,27 @@
+li {
+    display: block;
+    padding: 8px;
+    float: right;
+    color: black;
+}
+
+body {
+    background-image:url("web.png") ;
+}
+
+label {
+    color: goldenrod ;
+    font-family:'Segoe UI' ;
+    font-size: 160%;
+}
+
+form{
+    position: absolute;
+    top: 100px; left: 600px;
+}
+
+/*button{
+    position: absolute;
+    bottom: 300px; left: 600px;
+}
+*/
